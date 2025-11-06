@@ -37,3 +37,5 @@ def main(duel_res: list[tuple]):
 
 # Тестовый вызов функции main.
 print(main(TEST_DATA))
+
+print(__doc__)
